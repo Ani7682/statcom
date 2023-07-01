@@ -1,2 +1,3 @@
 # statcom
-In this project, a STATCOM (Static Synchronous Compensator) is implemented on MATLAB, along with its output waveform and rms values.
+In this project, a STATCOM (Static Synchronous Compensator) is implemented on MATLAB, along with its output waveform and RMS values.
+STATCOM or Static Synchronous Compensator is a power electronic device using force-commutated devices like IGBT, GTO, etc. to control the reactive power flow through a power network and thereby increase the stability of the power network. STATCOM is a shunt device i.e. it is connected in a shunt with the line. A Static Synchronous Compensator (STATCOM) is also known as a Static Synchronous Condenser (STATCON). It is a member of the Flexible AC Transmission System (FACTS) family of devices.
